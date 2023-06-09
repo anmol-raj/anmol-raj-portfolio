@@ -15,14 +15,14 @@ import {
   git,
   figma,
   docker,
-  starbucks,
-  tesla,
-  shopify,
   carrent,
   jobit,
   tripguide,
   threejs,
 } from "../assets";
+import tyke from "../assets/tyke.png"
+import futor from "../assets/futor.png"
+import tmm from "../assets/tmm.jpeg"
 
 
 export const navLinks = [
@@ -42,7 +42,7 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "ReactJS Developer",
     icon: web,
   },
   {
@@ -50,11 +50,11 @@ const services = [
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Front End Developer",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "UI Designer",
     icon: creator,
   },
 ];
@@ -118,7 +118,7 @@ const experiences = [
   {
     title: "UI Developer",
     company_name: "Tyke Invest",
-    icon: starbucks,
+    icon: tyke,
     iconBg: "#383E56",
     date: "March 2020 - April 2021",
     points: [
@@ -130,8 +130,8 @@ const experiences = [
   },
   {
     title: "UI Developer",
-    company_name: "Tesla",
-    icon: tesla,
+    company_name: "Futor Labs",
+    icon: futor,
     iconBg: "#E6DEDD",
     date: "Jan 2021 - Feb 2022",
     points: [
@@ -143,8 +143,8 @@ const experiences = [
   },
   {
     title: "UI Developer",
-    company_name: "Shopify",
-    icon: shopify,
+    company_name: "TMM Magazine",
+    icon: tmm,
     iconBg: "#383E56",
     date: "Jan 2022 - Jan 2023",
     points: [

@@ -34,7 +34,7 @@ const ServiceCard: React.FC<{ index: any; title: string; icon: any }> = ({
 
 const About: React.FC<{}> = ({}) => {
   return (
-    <div className="m-auto ml-20 mr-20">
+    <div className="m-auto ">
       <motion.div variants={textVariant("")}>
         <p className={`${styles.sectionSubText}`}>Introduction</p>
         <h2 className={`${styles.sectionHeadText}`}>Overview</h2>
