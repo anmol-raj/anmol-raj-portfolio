@@ -34,8 +34,23 @@ const ExperienceCard: React.FC<{ experience: any }> = ({ experience }) => {
     >
       <div>
         <h3 className="text-white text-[24px] font-bold">{experience.title}</h3>
-        <p className="">{experience.company_name}</p>
+        <p
+          className="text-secondary font-semibold text-[16px]"
+          style={{ margin: 0 }}
+        >
+          {experience.company_name}
+        </p>
       </div>
+      <ul className="mt-5 list-disc ml-5 space-y-2">
+        {experience.points.map((point: any, index: any) => (
+          <li
+            key={`experience-point-${index}`}
+            className="text-white-100 text-[14px] pl-1 tracking-wider"
+          >
+            {point}
+          </li>
+        ))}
+      </ul>
     </VerticalTimelineElement>
   );
 };

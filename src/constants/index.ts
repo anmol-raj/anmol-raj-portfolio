@@ -122,10 +122,11 @@ const experiences = [
     iconBg: "#383E56",
     date: "March 2020 - April 2021",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Developed the User Interface of web applications like www.tykeinvest.com, www.tyke.pe & many more using Remix.js(the framework of React.js), Typescript, Html, CSS, and Figma from marketing pages to the dashboard & other internal tools for the teams like admins & finance using React with Material UI.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Developed email templates for all the products & integrated other third-party tools for marketing, tracking user behavior & optimized the app accordingly.",
+      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Collaborated with the design team & developed our own design system for the various products using Storybook, React.js & typescript.Built, tested and deployed scalable web application",
     ],
   },
   {
@@ -135,10 +136,9 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Jan 2021 - Feb 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Worked upon designing the User Interface for the applications using Adobe XD & Figma.",
+      "I have also experience in developing the designed UI using Angular 8.",
+      "I got an opportunity to design and develop a whole application from scratch. It had many functionalities and a user-friendly front end for users to interact with."
     ],
   },
   {
@@ -148,10 +148,11 @@ const experiences = [
     iconBg: "#383E56",
     date: "Jan 2022 - Jan 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "I developed the website www.houseoftmm.com for the company itself & some websites for their clients.",
+      "Did Seo, Sem, Smo, for that website Run Facebook Ads & Online promotions of the brand.",
+      "Provided support for website maintenance, Content updation on the website, Video editing, Social media accounts handling,",
+      "Creating Posts for social media content marketing."
+
     ],
   },
 ];
