@@ -125,7 +125,7 @@ const experiences = [
       "Developed the User Interface of web applications like www.tykeinvest.com, www.tyke.pe & many more using Remix.js(the framework of React.js), Typescript, Html, CSS, and Figma from marketing pages to the dashboard & other internal tools for the teams like admins & finance using React with Material UI.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Developed email templates for all the products & integrated other third-party tools for marketing, tracking user behavior & optimized the app accordingly.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Collaborated with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Collaborated with the design team & developed our own design system for the various products using Storybook, React.js & typescript.Built, tested and deployed scalable web application",
     ],
   },
@@ -148,10 +148,10 @@ const experiences = [
     iconBg: "#383E56",
     date: "Jan 2022 - Jan 2023",
     points: [
-      "I developed the website www.houseoftmm.com for the company itself & some websites for their clients.",
-      "Did Seo, Sem, Smo, for that website Run Facebook Ads & Online promotions of the brand.",
+      "I have developed the website www.houseoftmm.com for the company itself & some websites for their clients.",
+      "Did SEO, SEM, SMO, for that website, Run Facebook Ads & Online promotions of the brand.",
       "Provided support for website maintenance, Content updation on the website, Video editing, Social media accounts handling,",
-      "Creating Posts for social media content marketing."
+      "Created Posts for social media content marketing."
 
     ],
   },
