@@ -1,16 +1,10 @@
 import { motion } from "framer-motion";
-import { styles } from "../../styles";
 import { Tilt } from "react-tilt";
 import { github } from "../../assets";
-import { fadeIn, textVariant } from "../../utils/motion";
 import { projects } from "../../constants";
 import { SectionWrapper } from "../../hoc";
-import {
-  ReactElement,
-  JSXElementConstructor,
-  ReactFragment,
-  ReactPortal,
-} from "react";
+import { styles } from "../../styles";
+import { fadeIn, textVariant } from "../../utils/motion";
 
 const ProjectCard: React.FC<{
   index: any;
