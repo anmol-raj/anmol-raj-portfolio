@@ -57,27 +57,14 @@ const ProjectCard: React.FC<{
         </div>
 
         <div className="mt-4 flex flex-wrap gap-2">
-          {tags.map(
-            (tag: {
-              name:
-                | string
-                | number
-                | boolean
-                | ReactElement<any, string | JSXElementConstructor<any>>
-                | ReactFragment
-                | ReactPortal
-                | null
-                | undefined;
-              color: any;
-            }) => (
-              <p
-                key={`${name}-${tag.name}`}
-                className={`text-[14px] ${tag.color}`}
-              >
-                #{tag.name}
-              </p>
-            )
-          )}
+          {tags.map((tag: { name: string; color: any }) => (
+            <p
+              key={`${name}-${tag.name}`}
+              className={`text-[14px] ${tag.color}`}
+            >
+              #{tag.name}
+            </p>
+          ))}
         </div>
       </Tilt>
     </motion.div>
@@ -113,4 +100,4 @@ const Works: React.FC<{}> = ({}) => {
     </>
   );
 };
-export default SectionWrapper(Works, "");
+export default SectionWrapper(Works, "work");

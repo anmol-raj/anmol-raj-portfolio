@@ -7,7 +7,7 @@ import Feedbacks from "./components/feedbacks/feedbacks.component";
 import Hero from "./components/hero/hero.component";
 import Tech from "./components/tech/tech.component";
 import Works from "./components/works/works.component";
-import StarsCanvas from "./components/starscanvas/starscanvas.component";
+import StarsCanvas from "./components/canvas/Stars";
 
 const App = () => {
   return (
@@ -21,7 +21,7 @@ const App = () => {
         <Experience />
         <Tech />
         <Works />
-        <Feedbacks />
+        {/* <Feedbacks /> */}
         <div className="relative z-0">
           <Contact />
           <StarsCanvas />
