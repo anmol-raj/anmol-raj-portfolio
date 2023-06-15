@@ -120,7 +120,7 @@ const experiences = [
     company_name: "Tyke Invest",
     icon: tyke,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "Nov 2021 - Present ",
     points: [
       "Developed the User Interface of web applications like www.tykeinvest.com, www.tyke.pe & many more using Remix.js(the framework of React.js), Typescript, Html, CSS, and Figma from marketing pages to the dashboard & other internal tools for the teams like admins & finance using React with Material UI.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
@@ -134,7 +134,7 @@ const experiences = [
     company_name: "Futor Labs",
     icon: futor,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "Feb 2019 - Mar 2020",
     points: [
       "Worked upon designing the User Interface for the applications using Adobe XD & Figma.",
       "I have also experience in developing the designed UI using Angular 8.",
@@ -146,7 +146,7 @@ const experiences = [
     company_name: "TMM Magazine",
     icon: tmm,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "Feb 2018 - Jan 2019 ",
     points: [
       "I have developed the website www.houseoftmm.com for the company itself & some websites for their clients.",
       "Did SEO, SEM, SMO, for that website, Run Facebook Ads & Online promotions of the brand.",
