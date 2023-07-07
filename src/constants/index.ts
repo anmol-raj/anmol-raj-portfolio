@@ -16,6 +16,7 @@ import {
   figma,
   docker,
   carrent,
+  fb,
   jobit,
   tripguide,
   threejs,
@@ -186,9 +187,9 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Facebook Clone",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "An advanced social media Facebook clone application using React js , Node js, Express js, Mongodb and many many other tools.",
     tags: [
       {
         name: "react",
@@ -199,17 +200,17 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "node js",
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: fb,
+    source_code_link: "https://github.com/anmol-raj/Facebook-clone",
   },
   {
-    name: "Job IT",
+    name: "Coming Soon",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "In Progress...",
     tags: [
       {
         name: "react",
@@ -228,9 +229,9 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Trip Guide",
+    name: "Coming Soon",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "In Progress...",
     tags: [
       {
         name: "nextjs",
