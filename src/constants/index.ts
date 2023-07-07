@@ -15,12 +15,11 @@ import {
   git,
   figma,
   docker,
-  carrent,
-  fb,
   jobit,
   tripguide,
   threejs,
 } from "../assets";
+import fbshot from "../assets/fbshot.png"
 import tyke from "../assets/tyke.png"
 import futor from "../assets/futor.png"
 import tmm from "../assets/tmm.jpeg"
@@ -204,7 +203,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: fb,
+    image: fbshot,
     source_code_link: "https://github.com/anmol-raj/Facebook-clone",
   },
   {
