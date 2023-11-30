@@ -15,8 +15,6 @@ import {
   git,
   figma,
   docker,
-  jobit,
-  tripguide,
   threejs,
 } from "../assets";
 import fbshot from "../assets/fbshot.png"
@@ -224,7 +222,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
+    image: "",
     source_code_link: "https://github.com/",
   },
   {
@@ -245,7 +243,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: "",
     source_code_link: "https://github.com/",
   },
 ];
