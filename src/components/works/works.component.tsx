@@ -22,7 +22,7 @@ const ProjectCard: React.FC<{
           scale: 1,
           speed: 450,
         }}
-        className="bg-tertiary p-5 rounded-2xl sm:w-[360px] w-full" style={{minHeight:"430px"}}
+        className="bg-tertiary p-5 rounded-2xl sm:w-[360px] w-full" style={{minHeight:"100%"}}
       >
         <div className="relative w-full h-[230px]">
           <img

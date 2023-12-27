@@ -21,6 +21,8 @@ import fbshot from "../assets/fbshot.png"
 import tyke from "../assets/tyke.png"
 import futor from "../assets/futor.png"
 import tmm from "../assets/tmm.jpeg"
+import ecom from "../assets/ecom-shot.png"
+import fitapp from "../assets/fitshot.png"
 
 
 export const navLinks = [
@@ -205,46 +207,46 @@ const projects = [
     source_code_link: "https://github.com/anmol-raj/Facebook-clone",
   },
   {
-    name: "Coming Soon",
+    name: "E-Commerce + Dashboard & CMS",
     description:
-      "In Progress...",
+      "A modern E-Commerce + Dashboard & CMS app using Next.js 13 App Router, React, Tailwind, Prisma, MySQL, TypeScript, etc.",
+    tags: [
+      {
+        name: "next",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "green-text-gradient",
+      },
+      {
+        name: "typeScript",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: ecom,
+    source_code_link: "https://github.com/",
+  },
+  {
+    name: "Fitness App",
+    description:
+      "A modern Fitness Exercises app using React 18, React Router, and Material-UI, integrated with RapidAPI. ",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "rapidAPI",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "material-ui",
         color: "pink-text-gradient",
       },
     ],
-    image: "",
-    source_code_link: "https://github.com/",
-  },
-  {
-    name: "Coming Soon",
-    description:
-      "In Progress...",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: "",
-    source_code_link: "https://github.com/",
+    image: fitapp,
+    source_code_link: "https://github.com/anmol-raj/fitness-app",
   },
 ];
 
