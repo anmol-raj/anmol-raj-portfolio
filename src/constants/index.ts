@@ -225,7 +225,7 @@ const projects = [
       },
     ],
     image: ecom,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/anmol-raj",
   },
   {
     name: "Fitness App",
