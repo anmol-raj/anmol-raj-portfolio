@@ -116,7 +116,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: "UI Developer",
+    title: "Frontend Developer",
     company_name: "Tyke Invest",
     icon: tyke,
     iconBg: "#383E56",
@@ -130,7 +130,7 @@ const experiences = [
     ],
   },
   {
-    title: "UI Developer",
+    title: "Frontend Developer",
     company_name: "Futor Labs",
     icon: futor,
     iconBg: "#E6DEDD",
@@ -142,7 +142,7 @@ const experiences = [
     ],
   },
   {
-    title: "UI Developer",
+    title: "Frontend Developer",
     company_name: "TMM Magazine",
     icon: tmm,
     iconBg: "#383E56",

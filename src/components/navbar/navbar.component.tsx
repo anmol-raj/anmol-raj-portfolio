@@ -31,7 +31,7 @@ const Navbar: React.FC<{}> = ({}) => {
           <img src={logo} alt={logo} className="w-9 h-9 object-contain" />
           <p className="text-white text-[18px] flex gap-2 font-medium cursor-pointer">
             Anmol Raj
-            <span className="sm:block hidden">| &nbsp; UI Developer</span>
+            <span className="sm:block hidden">| &nbsp; Frontend Developer</span>
           </p>
         </Link>
 
